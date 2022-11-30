@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rutvikpankhania
-- 👀 I’m interested in React.js and MERN Stack.
+- 👀 I’m Software Developer.
 - 🌱 I’m currently learning which helps me to improve my skills.
-- 💞️ I’m looking to collaborate on Full-Stack Projects.
 - 📫 How to reach me rutvik165@gmail.com
+-  [![My Skills](https://skillicons.dev/icons?i=js&perline=3)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=react&perline=3)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=redux&perline=3)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=ts&perline=3)](https://skillicons.dev)
 
 <!---
 rutvikpankhania/rutvikpankhania is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
