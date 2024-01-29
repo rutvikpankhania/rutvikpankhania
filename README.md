@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rutvikpankhania
-- 👀 I’m Software Developer.
-- 🌱 I’m currently learning which helps me to improve my skills.
+- 👀 I’m Software Engineer
+- 🌱 I’m currently learning which helps me to improve my skills
 - 📫 How to reach me rutvik165@gmail.com
 -  [![My Skills](https://skillicons.dev/icons?i=js&perline=3)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=react&perline=3)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=redux&perline=3)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=ts&perline=3)](https://skillicons.dev)
 
